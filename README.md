@@ -60,8 +60,6 @@ Here are the technologies I'm proficient in or actively studying.
 ---
 
 ## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amalthomas26) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/amalthomas.26) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amalthomaschennattu@gmail.com) 
 
