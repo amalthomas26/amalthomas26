@@ -7,32 +7,26 @@ on:
 
 jobs:
   build:
-    # Grant the workflow permissions to write to the repository
+    # This is essential for allowing the workflow to save the file
     permissions:
       contents: write
       
     runs-on: ubuntu-latest
     steps:
-      # Use a newer version of the checkout action
+      # Use a stable version of the checkout action
       - uses: actions/checkout@v4
 
-      # Generate the light mode snake SVG (using a stable version tag)
+      # Use the snk action with the 'outputs' parameter as requested by the latest error log
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Generate the dark mode snake SVG (using a stable version tag)
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Push the generated files to the output branch (using a newer version)
+      # Use a stable version of the pages action
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
