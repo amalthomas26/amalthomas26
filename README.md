@@ -1,3 +1,5 @@
+
+
 # Hey 👋, I'm Amal Thomas
 
 <p align="center">
@@ -17,7 +19,7 @@
 
 ## ⚡ Tech Stack
 
-Here are the technologies I'm proficient in or actively studying:
+Here are the technologies I'm proficient in or actively studying.
 
 | Proficient Skills | Learning/Studying |
 | :---: | :---: |
@@ -29,16 +31,15 @@ Here are the technologies I'm proficient in or actively studying:
 
 ## 🔥 GitHub Stats & Streaks
 
-Your username is filled in below.
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalthomas26&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="amalthomas26 GitHub Stats" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amalthomas26&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Amal Thomas GitHub Stats" height="150px"/>
   
   <img src="https://github-readme-streak-stats.vercel.app/?user=amalthomas26&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="150px"/>
 </p>
 
 ---
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/amalthomas26/amalthomas26/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
@@ -47,20 +48,32 @@ Your username is filled in below.
 
 
 
+## 🎶 Fun Zone
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amalthomas26)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/[REPLACE_WITH_YOUR_INSTAGRAM_USERNAME])
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[REPLACE_WITH_YOUR_GMAIL_ADDRESS])
+<p align="center">
+    <img src="https://i.imgur.com/K3Z9j91.png" alt="MERN Stack code snippet" width="400"/>
+</p>
+<p align="center">
+    "Code. Create. Repeat." 🚀
+</p>
 
 ---
 
-<p align="center">
-  "Code. Create. Repeat." 🚀
-</p>
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amalthomas26) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/amalthomas.26) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amalthomaschennattu@gmail.com) 
+
+
+
+
+
+
+
+
+
+
 
 
 
