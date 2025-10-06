@@ -30,8 +30,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amalthomas26&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Amal Thomas GitHub Stats" height="150px"/>
   
-  <img src="https://github-readme-streak-stats.vercel.app/?user=amalthomas26&hide_border=true" alt="GitHub Streak" height="150px"/>
-</p>
 
 ---
 
@@ -65,7 +63,6 @@ const createProduct = async (req, res) => {
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amalthomas26) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/amalthomas.26) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amalthomaschennattu@gmail.com) 
 
