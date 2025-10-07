@@ -33,6 +33,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amalthomas26/amalthomas26/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<p>
+
+
+
 ## 🎶 Fun Zone
 
 ![A GIF showing the weather app working on desktop and mobile screens](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHd1d3JzbW41dHkyY3A1YW9oejJ5OWV4MDFzOWI3ZzR3b2ZpZDBpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S3thLnRWEpRwq6iDIO/giphy.gif)
@@ -49,19 +55,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amalthomas26/amalthomas26/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-<p>
 
 
 
