@@ -27,9 +27,9 @@
 
 ## 🔥 GitHub Stats
 
-![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amalthomas26&show_icons=true&theme=radical)
+![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amalthomas26&show_icons=true&theme=tokyonight)
 
-![Amal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amalthomas26&layout=compact&theme=radical)
+![Amal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amalthomas26&layout=compact&theme=dracula)
 
 ---
 
