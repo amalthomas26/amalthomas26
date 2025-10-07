@@ -27,9 +27,9 @@
 
 ## 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalthomas26&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Amal Thomas GitHub Stats" height="150px"/>
-  
+![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amalthomas26&show_icons=true&theme=radical)
+
+![Amal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amalthomas26&layout=compact&theme=radical)
 
 ---
 
