@@ -25,7 +25,7 @@
 
 ---
 
-## 🔥 GitHub Stats & Streaks
+## 🔥 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amalthomas26&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Amal Thomas GitHub Stats" height="150px"/>
@@ -35,26 +35,7 @@
 
 ## 🎶 Fun Zone
 
-<p align="center">
-    <pre>
-<code>const getProducts = async (req, res) => {
-    try {
-        const products = await Product.find({});
-        res.status(200).json(products);
-    } catch (error) {
-        res.status(500).json({ message: error.message });
-    }
-};
-
-const createProduct = async (req, res) => {
-    try {
-        const product = await Product.create(req.body);
-        res.status(201).json(product);
-    } catch (error) {
-        res.status(500).json({ message: error.message });
-    }
-};</code></pre>
-</p>
+![A GIF showing the weather app working on desktop and mobile screens](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHd1d3JzbW41dHkyY3A1YW9oejJ5OWV4MDFzOWI3ZzR3b2ZpZDBpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S3thLnRWEpRwq6iDIO/giphy.gif)
 <p align="center">
     "Code. Create. Repeat." 🚀
 </p>
