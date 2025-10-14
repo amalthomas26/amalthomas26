@@ -38,37 +38,6 @@
 <p>
 
 
-// Authorization token that must have been created previously. See : https://developer.spotify.com/documentation/web-api/concepts/authorization
-const token = 'BQCyD7ouXoiJ14sNLg1Hpb_1E7w1DzU3dL-y3i6eoCUejBHa3YhxXF9xZWkU5Qe0g_ov2VEtBpfj6NDwdfOA9m16hIi2cpCgvz2JmCPmsIbguHgih_hnjYRXWsykw7IHJTGbSEMTgRT97hJD3vzPPO4uZZz3M96fsg54Ty1N9bRKcGCWKMd1UUZJU2Lioww850z3EbRWtMnNZ60Oi_2QJE9kRKnRi_2mzIECqbhCBv0yBRPQiHIRVyD7nmBVfxydnWT1fqEtIqVJXIDUxZNNgXxhpjgoYJkM6x0cziOOErwn-iaeKG_UMWmynoZLVMf07wT0';
-async function fetchWebApi(endpoint, method, body) {
-  const res = await fetch(`https://api.spotify.com/${endpoint}`, {
-    headers: {
-      Authorization: `Bearer ${token}`,
-    },
-    method,
-    body:JSON.stringify(body)
-  });
-  return await res.json();
-}
-
-async function getTopTracks(){
-  // Endpoint reference : https://developer.spotify.com/documentation/web-api/reference/get-users-top-artists-and-tracks
-  return (await fetchWebApi(
-    'v1/me/top/tracks?time_range=long_term&limit=5', 'GET'
-  )).items;
-}
-
-const topTracks = await getTopTracks();
-console.log(
-  topTracks?.map(
-    ({name, artists}) =>
-      `${name} by ${artists.map(artist => artist.name).join(', ')}`
-  )
-);
-
-
-
-
 
 
 ## 🎶 Fun Zone
