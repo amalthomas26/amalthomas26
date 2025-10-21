@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 ABOUT ME
 
 💡 Passionate about building fast, modern web applications.
 🎯 **Goal:** To become a proficient **MERN Stack Developer** (MongoDB, Express, React, Node.js).
