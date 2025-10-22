@@ -11,7 +11,7 @@
 💡 Passionate about building fast, modern web applications.
 🎯 **Goal:** To become a proficient **MERN Stack Developer** (MongoDB, Express, React, Node.js).
 🌱 Currently solidifying my backend knowledge in **Node.js** and **Express**, and diving into **MongoDB** for database management.
-💻 Building small projects to integrate my frontend (HTML, CSS, JS) and backend skills.
+💻 Building small projects to integrate my frontend (HTML, CSS, JS) and backend Sklls.
 
 ---
 
