@@ -49,7 +49,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me 🙏
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/amalthomas.26) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amalthomaschennattu@gmail.com) 
