@@ -28,12 +28,6 @@
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | |
 
 ---
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalthomas26&layout=compact&theme=tokyonight" alt="Amal's Top Languages" />
-</p>
-
 
 ## 🔥 GitHub Stats
 
