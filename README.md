@@ -10,7 +10,7 @@
 
 💡 Passionate about building fast, modern web applications.
 🎯 **Goal:** To become a proficient **MERN Stack Developer** (MongoDB, Express, React, Node.js).
-🌱 currently mastering **React.js** to complete my full-stack toolkit.
+🌱 Currently mastering **React.js** to complete my full-stack toolkit.
 💻 Building projects to integrate my backend expertise (Node, Express, MongoDB) with modern frontend UIs.
 
 ---
@@ -32,10 +32,11 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalthomas26&show_icons=true&theme=tokyonight" alt="Amal's GitHub Stats" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/amalthomas26?cardType=level&theme=tokyonight" alt="Amal's GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalthomas26&layout=compact&theme=dracula" alt="Amal's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalthomas26&theme=tokyonight&hide_border=true" alt="Amal's Streak" />
 </p>
 
 ---
@@ -58,13 +59,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/amalthomas.26) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amalthomaschennattu@gmail.com)
-
-
-
-
-
-
-
 
 
 
