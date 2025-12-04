@@ -1,7 +1,7 @@
 # Hey 👋, I'm Amal Thomas
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF7F&random=false&width=435&lines=MERN+Stack+Aspirant;Frontend+Developer;Learning+React.js." alt="Typing SVG" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF7F&random=false&width=435&lines=MERN+Stack+Aspirant;Frontend+Developer;Backend+Developer;Learning+React.js." alt="Typing SVG" /></a>
 </p>
 
 ---
