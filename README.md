@@ -36,9 +36,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalthomas26&theme=tokyonight&hide_border=true" alt="Amal's Streak" />
+  <img src="https://streak-stats.demolab.com?user=amalthomas26&theme=tokyonight&hide_border=true" alt="Amal's Streak" />
 </p>
-
 ---
 
 <p align="center">
