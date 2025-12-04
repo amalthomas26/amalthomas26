@@ -28,6 +28,12 @@
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | |
 
 ---
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalthomas26&layout=compact&theme=tokyonight" alt="Amal's Top Languages" />
+</p>
+
 
 ## 🔥 GitHub Stats
 
@@ -35,9 +41,7 @@
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/amalthomas26?cardType=level&theme=tokyonight" alt="Amal's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amalthomas26&theme=tokyonight&hide_border=true" alt="Amal's Streak" />
-</p>
+
 ---
 
 <p align="center">
